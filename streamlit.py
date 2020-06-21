@@ -191,9 +191,9 @@ elif length == 2:
 elif length == 1:
     st.image([image[0]],[caption[0]],use_column_width=True)
 
-st.write(userIndex)
-st.write(user)
-st.write(recommendations_final)
+#st.write(userIndex)
+#st.write(user)
+#st.write(recommendations_final)
 #st.write(recommendations_final[['index','Predictions','movieId','title_x']][:length])
 
 # st.write(recommendations_final)
