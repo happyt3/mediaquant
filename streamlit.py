@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import altair as alt
-import pydeck as pdk
+# import altair as alt
+# import pydeck as pdk
 
-import matplotlib.pyplot as plt
-import seaborn as sns
+# import matplotlib.pyplot as plt
+# import seaborn as sns
 # import plotly.express as px
 # from sqlalchemy import create_engine
 
